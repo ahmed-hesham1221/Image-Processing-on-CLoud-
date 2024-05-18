@@ -1,3 +1,3 @@
 # Image-Processing-on-CLoud-
 
-(https://drive.google.com/drive/folders/17sp8Fd2TqU86mgmK_w6eRflxrvl0bLuh?usp=share_link)
+https://drive.google.com/file/d/1Z0sOgKXO6-3eGV0KORXSo_lsLqLVQrDC/view?usp=share_link
