@@ -12,7 +12,7 @@ server_address = '0.0.0.0'  # Listen on all available interfaces
 server_port = 5000
 
 # Azure Queue Storage settings
-connection_string = "'DefaultEndpointsProtocol=https;AccountName=vm123store;AccountKey=LhRPPjDK4YLM6J0v4YABGxKv9vZoJW91+UcDNR+MOgQ33EYHJxJjrM76UkqhULe72/yAa8V/AkwG+AStgHuf3g==;EndpointSuffix=core.windows.net"
+connection_string = "_____________"
 queue_name = 'taskqueue'
 queue_service_client = QueueServiceClient.from_connection_string(connection_string)
 task_queue_client = queue_service_client.get_queue_client(queue_name)
